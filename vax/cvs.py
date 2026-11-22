@@ -1,3 +1,5 @@
+"""Poll CVS for vaccine appointment availability and send an email alert."""
+
 import requests
 import time
 import smtplib

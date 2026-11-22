@@ -1,3 +1,5 @@
+"""Scan the pharmacy modules for appointments and send email alerts."""
+
 import os
 import smtplib
 from time import sleep
