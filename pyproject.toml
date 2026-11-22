@@ -140,6 +140,7 @@ exclude_paths = [
     "scrap",
     "vax/cvs.py",
     "vax/riteaid.py",
+    "vax/scan.py",
 ]
 test_on_windows = true
 
