@@ -1,3 +1,5 @@
+"""Poll Walgreens for vaccine appointment availability and send an email alert."""
+
 import requests
 from functools import partial
 import smtplib

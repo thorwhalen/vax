@@ -1,3 +1,5 @@
+"""Poll Rite Aid for vaccine appointment availability and send an email alert (needs a local ``config`` module)."""
+
 import requests
 import time
 import smtplib
