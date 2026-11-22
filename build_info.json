@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-11-22T20:25:52Z",
+  "package": {
+    "name": "vax",
+    "version": "0.0.4",
+    "display_name": "vax",
+    "source": "pyproject.toml"
+  },
+  "git": {
+    "available": true,
+    "commit": "83fcd5ff4bc45a763cbc806affdbad9adff5a35b",
+    "short_commit": "83fcd5f",
+    "branch": "master",
+    "tags": [],
+    "dirty": false,
+    "remote_url": "https://github.com/thorwhalen/vax",
+    "commit_url": "https://github.com/thorwhalen/vax/commit/83fcd5ff4bc45a763cbc806affdbad9adff5a35b",
+    "error": null
+  },
+  "ci": {
+    "provider": "github",
+    "repository": "thorwhalen/vax",
+    "sha": "83fcd5ff4bc45a763cbc806affdbad9adff5a35b",
+    "sha_in_history": true,
+    "ref": "refs/heads/master",
+    "ref_name": "master",
+    "run_id": "45066273664",
+    "run_url": "https://github.com/thorwhalen/vax/actions/runs/45066273664",
+    "server_url": "https://github.com"
+  },
+  "tools": {
+    "epythet": "0.2.23",
+    "sphinx": "9.1.1",
+    "docutils": "0.22.4",
+    "python": "3.12.16"
+  },
+  "config": {
+    "theme": "auto",
+    "html_theme": "shibuya",
+    "accent": "#005e99",
+    "mode": "auto",
+    "api_generator": "autosummary",
+    "ignore": [
+      "tests/",
+      "scrap/",
+      "examples/"
+    ],
+    "agent_outputs": true,
+    "aggregates": [
+      "md"
+    ],
+    "ai_artifacts": true,
+    "provenance": true,
+    "docs_dir": "docsrc"
+  },
+  "site": {
+    "modules_documented": 2,
+    "objects_documented": 0
+  },
+  "pypi": {
+    "checked": true,
+    "latest": "0.0.4",
+    "relation": "same",
+    "error": null
+  },
+  "reproduce": "git clone https://github.com/thorwhalen/vax && cd vax\ngit checkout 83fcd5ff4bc45a763cbc806affdbad9adff5a35b\npip install \"epythet==0.2.23\"\nepythet quickstart . --ignore tests/ scrap/ examples/",
+  "warnings": [],
+  "alignment": {
+    "aligned": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,13 @@
+# vax
+
+> Finding covid vaccine appointment slots
+
+
+## Pages in this subsection
+
+- [vax](vax.html.md): | &#96;walgreens&#96;   | Poll Walgreens for vaccine appointment availability and send an email alert.   |
+- [vax.walgreens](vax.walgreens.html.md): Poll Walgreens for vaccine appointment availability and send an email alert.
+
+## Optional
+
+- [Top-level llms.txt](../llms.txt): Complete documentation index.

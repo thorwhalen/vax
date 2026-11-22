@@ -1,0 +1,20 @@
+# vax
+
+> Finding covid vaccine appointment slots
+
+
+## Pages
+
+- [vax](index.html.md): Finding covid vaccine appointment slots
+- [API reference](api.html.md): | &#96;vax&#96;   |    |
+- [vax](_autosummary/vax.html.md): | &#96;walgreens&#96;   | Poll Walgreens for vaccine appointment availability and send an email alert.   |
+- [vax.walgreens](_autosummary/vax.walgreens.html.md): Poll Walgreens for vaccine appointment availability and send an email alert.
+- [About this build](about-this-build.html.md): This documentation was built on &#42;&#42;2026-11-22 20:25 UTC&#42;&#42; from commit &lt;a href="https://github.com/tho...
+
+## Optional
+
+- [vax.md](vax.md): Complete documentation in a single file.
+
+## Build
+
+- [build_info.json](build_info.json): build provenance (commit, version, tool versions, whether the docs match the package)

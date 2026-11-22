@@ -1,0 +1,12 @@
+vax.walgreens
+=============
+
+.. automodule:: vax.walgreens
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      check_walgreens
+   

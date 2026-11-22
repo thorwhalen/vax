@@ -1,0 +1,16 @@
+﻿vax
+===
+
+.. automodule:: vax
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   cvs
+   riteaid
+   scan
+   walgreens
